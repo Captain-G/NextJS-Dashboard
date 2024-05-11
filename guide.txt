@@ -1,0 +1,5 @@
+npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" - create a next js app
+
+Running the dev server
+npm i - install project's packages
+npm run dev - start the dev server
